@@ -4,7 +4,7 @@ This repository contains an MSc-level proof-of-concept dashboard for machine lea
 
 ## Live Demo
 
-https://ids-threat-detection-dashboard-gv4uxcbmbj8zbkxqjfak4m.streamlit.app
+https://ids-threat-detection-dashboard-mofy8e82zq97cquzdngvrx.streamlit.app/
 
 ## Project Summary
 
